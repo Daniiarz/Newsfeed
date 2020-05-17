@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="httpmime-4.3.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/httpmime-4.3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-nio-4.4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-nio-4.4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.4.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
